@@ -12,7 +12,7 @@ The "code" directory contains the Python implementation of the linear regression
 
 #### Report
 
-/docs includes the project report in PDF format. The report provides a detailed analysis of the project, including the methodology, implementation details, results, and visualizations of the decision boundaries.
+`/docs` includes the project report in PDF format. The report provides a detailed analysis of the project, including the methodology, implementation details, results, and visualizations of the decision boundaries.
 
 #### Running the Code
 
@@ -20,6 +20,3 @@ To run the code and reproduce the results, execute the following command in your
 
 ```bash
 python main.py
-
-
-
